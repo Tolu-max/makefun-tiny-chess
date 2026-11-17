@@ -1,0 +1,9 @@
+{
+  "competition": "tiny-chess-01",
+  "harness_version": "2.0.0",
+  "provider": "google",
+  "model_name": "Gemini 3.8 Flash",
+  "effort_level": "medium",
+  "prompt": "Build the strongest chess engine in 4 KB of Python that communicates via standard UCI protocol, deterministic execution, and beats the house baseline.",
+  "wallet": "DDzd3kXiz9UT2zSg3GgWXpy9eS9U8JSvZN5ZmSskB4sc"
+}
